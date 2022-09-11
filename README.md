@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi! I'm Ignacio Tomasco 👋 
 
-<!--
-**Raggi37/Raggi37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An enthusiastic and motivated Fullstack developer with little experience but a lot of interest in joining a workgroup to be able to contribute my development skills and continue my learning process, either frontend or backend.
 
-Here are some ideas to get you started:
+🌱 I’m currently sharpening my Front End Skills for the MERN stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![This is an image](https://www.epitech-it.es/wp-content/uploads/2021/01/cuantos-lenguajes-de-programacion-existen-1024x576.jpg)
+
+```Js
+const raggi37 {
+    code: [Html, Css, Javascript],
+    tools: [React, Nodejs, Express],
+}
+```
+
+### You can find me 🌎:
+
+- Linkedin (linkedin.com/ignacio-tomasco)
+- Gmail (ignacio.tomasco@gmail.com)
+ 
+ 
+- 🎭 Fun fact: I'm an old junior 👨🏻‍🦳
+ 
+
+
