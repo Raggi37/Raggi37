@@ -17,7 +17,7 @@ const raggi37 {
 
 ### You can find me 🌎:
 
-- Linkedin (linkedin.com/ignacio-tomasco)
+- Linkedin (linkedin.com/in/ignacio-tomasco)
 - Gmail (ignacio.tomasco@gmail.com)
  
  
