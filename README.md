@@ -22,6 +22,11 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
     <img align:"center" alt="ignacio_css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>           
 
+
+<hr>
+<br>
+<br>
+
 ### You can find me 🌎:
 
 - Linkedin (linkedin.com/in/ignacio-tomasco)
