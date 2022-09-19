@@ -32,7 +32,7 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
 
 <ul>
     <li>Web Muebles(HTML, CSS)</li>
-    <li>Netflix-clone</li>
+    <li>Netflix-clone (React)</li>
 </ul>
 
 <div>
