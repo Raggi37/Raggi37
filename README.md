@@ -30,6 +30,11 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
 
 <h1>SOME PROJECTS </h1>
 
+<ul>
+    <li>Web Muebles(HTML, CSS)</li>
+    <li>Netflix-clone</li>
+</ul>
+
 <div>
   
 </div>
