@@ -41,8 +41,8 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
 
 ### You can find me 🌎:
 
-- Linkedin (linkedin.com/in/ignacio-tomasco)
-- Gmail (ignacio.tomasco@gmail.com)
+- [Linkedin] (linkedin.com/in/ignacio-tomasco)
+- [Gmail] (ignacio.tomasco@gmail.com)
  
  
 <hr> 
