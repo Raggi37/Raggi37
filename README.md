@@ -41,13 +41,13 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
 
 ### You can find me 🌎:
 
-- [LinkedIn] (linkedin.com/in/ignacio-tomasco)
-- [Gmail] (ignacio.tomasco@gmail.com)
+- 💼[LinkedIn](linkedin.com/in/ignacio-tomasco)
+- 📫[Correo](ignacio.tomasco@gmail.com)
  
  
 <hr> 
  
 - 🎭 Fun fact: I'm an old junior(31)👨🏻‍🦳
- 
+- 📍 From Durazno-Uruguay 
 
 
