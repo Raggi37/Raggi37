@@ -31,7 +31,7 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
 <h1>SOME PROJECTS </h1>
 
 <ul>
-   <li>Web Muebles(HTML, CSS) [tiendaMuebles](https://github.com/Raggi37/tiendaMuebles</li>) 
+   <li><a href="https://github.com/Raggi37/tiendaMuebles">tiendaMuebles</a></li>
    <li>Netflix-clone (React)</li>
 </ul>
 
@@ -41,7 +41,7 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
 
 ### You can find me 🌎:
 
-- 💼 [LinkedIn](linkedin.com/in/ignacio-tomasco)
+- 💼 <a href="https://www.linkedin.com/in/ignacio-tomasco/">LinkedIn</a>
 - 📫 [Correo](ignacio.tomasco@gmail.com)
  
  
