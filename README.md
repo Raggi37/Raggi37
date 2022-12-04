@@ -15,6 +15,7 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
     <img align:"center" alt="ignacio_js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align:"center" alt="ignacio_tailw" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img align:"center" alt="ignacio_sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align:"center" alt="ignacio_gulp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
     <img align:"center" alt="ignacio_react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
     <img align:"center" alt="ignacio_node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -23,10 +24,10 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
 
 <h2>Graphic Design Tools</h2>
 <div style = "display: inline-block"><br>
-    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img align:"center" alt="ignacio_ai" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+    <img align:"center" alt="ignacio_ps" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    <img align:"center" alt="ignacio_canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+    <img align:"center" alt="ignacio_figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
 
