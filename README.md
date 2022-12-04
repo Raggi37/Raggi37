@@ -19,7 +19,15 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
     <img align:"center" alt="ignacio_node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     
-</div>           
+</div>
+
+<h2>Graphic Design Tools</h2>
+<div style = "display: inline-block"><br>
+    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
 
 
 
