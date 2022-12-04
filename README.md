@@ -1,6 +1,6 @@
 ### Hi! I'm Ignacio Tomasco 👋 
 
-An enthusiastic and motivated Fullstack developer with little experience but a lot of interest in joining a workgroup to be able to contribute my development skills and continue my learning process, either frontend or backend.
+An enthusiastic and motivated Fullstack developer with little experience but a lot of interest in joining a workgroup to be able to contribute my development skills and continue my learning process.
 
 
 ![This is an image](https://www.epitech-it.es/wp-content/uploads/2021/01/cuantos-lenguajes-de-programacion-existen-1024x576.jpg)
