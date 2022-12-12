@@ -45,6 +45,7 @@ An enthusiastic and motivated Fullstack developer with little experience but a l
    <li><a href="https://github.com/Raggi37/tiendaMuebles" target:"_blank">tiendaMuebles</a></li>
    <li><a href="https://lovely-profiterole-8910c1.netlify.app/"> Netflix-clone (React)</li>
    <li>Algo</li>
+   <li>La Cafeteria (HTML, SASS)</li>
 </ul>
 
 <div>
