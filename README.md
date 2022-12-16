@@ -3,8 +3,7 @@
 An enthusiastic and motivated Fullstack developer with little experience but a lot of interest in joining a workgroup to be able to contribute my development skills and continue my learning process.
 
 
-![This is an image](https://www.epitech-it.es/wp-content/uploads/2021/01/cuantos-lenguajes-de-programacion-existen-1024x576.jpg)
-
+![This is an image](https://images.unsplash.com/photo-1481887328591-3e277f9473dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2081&q=80)
 <hr>
 
 <h1> SKILLS AND TOOLS </h1>
