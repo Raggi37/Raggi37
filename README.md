@@ -1,6 +1,6 @@
 ### Hi! I'm Ignacio Tomasco 👋 
 
-An enthusiastic and motivated Fullstack developer with little experience but a lot of interest in joining a workgroup to be able to contribute my development skills and continue my learning process.
+Fullstack developer with little experience but a lot of interest in joining a workgroup to be able to contribute my development skills and continue my learning process.
 
 
 ![This is an image](https://images.unsplash.com/photo-1481887328591-3e277f9473dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2081&q=80)
