@@ -7,7 +7,7 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
 ![This is an image](https://images.unsplash.com/photo-1481887328591-3e277f9473dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2081&q=80)
 <hr>
 
-<h1> SKILLS AND TOOLS </h1>
+<h1> HABILIDADES Y HERRAMIENTAS </h1>
 
 <div style = "display: inline-block"><br>
     <img align:"center" alt="ignacio_html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -22,7 +22,7 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
     
 </div>
 
-<h2>Graphic Design Tools</h2>
+<h2>Herramientas de Diseño Gráfico</h2>
 <div style = "display: inline-block"><br>
     <img align:"center" alt="ignacio_ai" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
     <img align:"center" alt="ignacio_ps" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
@@ -39,7 +39,7 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
 
 <hr>
 
-<h1>SOME PROJECTS </h1>
+<h1>ALGUNOS PROYECTOS </h1>
 
 <ul>
    <li><a href="https://github.com/Raggi37/tiendaMuebles" target:"_blank">tiendaMuebles</a></li>
