@@ -1,7 +1,8 @@
 ###<h2> Hi! I'm Ignacio 👋 </h2>
 
-I am a junior web developer based in Montevideo, I am very passionate and dedicated to my work.
+Desarrollador Fullstack junior apasionado por la programación y el desarrollo web, busco oportunidades para crecer y aprender en un entorno dinámico y desafiante. Me considero una persona perseverante, comprometida y con habilidades para trabajar en equipo. Me gustaría aplicar mis habilidades para crear soluciones web efectivas y eficientes que satisfagan las necesidades de los clientes. 
 
+Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el campo del desarrollo web y estoy dispuesto a trabajar duro para alcanzar mis metas.
 
 ![This is an image](https://images.unsplash.com/photo-1481887328591-3e277f9473dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2081&q=80)
 <hr>
