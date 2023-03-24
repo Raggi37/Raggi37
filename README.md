@@ -34,7 +34,7 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
 
 
 <hr>
-🌱 I’m currently sharpening my Frontend Skills for the MERN stack
+🌱 Actualmente estoy mejorando mis habilidades con el stack MERN
 <br>
 
 <hr>
