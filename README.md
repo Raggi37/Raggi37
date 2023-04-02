@@ -1,13 +1,24 @@
-###<h2> Hi! I'm Ignacio 👋 </h2>
+###
+<h1> Hi! I'm Ignacio 👋 </h1>
 
-Desarrollador Fullstack junior apasionado por la programación y el desarrollo web, busco oportunidades para crecer y aprender en un entorno dinámico y desafiante. Me considero una persona perseverante, comprometida y con habilidades para trabajar en equipo. Me gustaría aplicar mis habilidades para crear soluciones web efectivas y eficientes que satisfagan las necesidades de los clientes. 
 
-Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el campo del desarrollo web y estoy dispuesto a trabajar duro para alcanzar mis metas.
+<div>
 
-![This is an image](https://images.unsplash.com/photo-1481887328591-3e277f9473dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2081&q=80)
+   <p>Desarrollador Fullstack junior apasionado por la programación y el desarrollo web, busco oportunidades para crecer y aprender en un entorno dinámico y desafiante. Me considero una persona perseverante, comprometida y con habilidades para trabajar en equipo. Me gustaría aplicar mis habilidades para crear soluciones web efectivas y eficientes que satisfagan las necesidades de los clientes. 
+
+Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el campo del desarrollo web y estoy dispuesto a trabajar duro para alcanzar mis metas.</p>
+</div>
+
+ 
+<div>
+    <img align="center" height="300" width="500" src="https://images.unsplash.com/photo-1481887328591-3e277f9473dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2081&q=80" alt="pc-image"  />
+</div>
+
+
 <hr>
+    
 
-<h1> HABILIDADES Y HERRAMIENTAS </h1>
+<h1> HABILIDADES Y HERRAMIENTAS 🛠</h1>
 
 <div style = "display: inline-block"><br>
     <img align:"center" alt="ignacio_html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -22,7 +33,9 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
     
 </div>
 
-<h2>Herramientas de Diseño Gráfico</h2>
+<br>
+
+<h2>Herramientas de Diseño Gráfico 🖌</h2>
 <div style = "display: inline-block"><br>
     <img align:"center" alt="ignacio_ai" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
     <img align:"center" alt="ignacio_ps" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
@@ -30,14 +43,10 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
     <img align:"center" alt="ignacio_figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
-
-
-
-<hr>
-🌱 Actualmente estoy mejorando mis habilidades con el stack MERN
 <br>
 
 <hr>
+
 
 <h1>ALGUNOS PROYECTOS </h1>
 
@@ -47,11 +56,9 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
    <li><a href="https://cafeteriaconsass.netlify.app">La Cafeteria(HTML, SASS)</a></li>
 </ul>
 
-<div>
-  
-</div>
 
-### You can find me 🌎:
+
+### Me puedes encontrar en 🌎:
 
    - 💼 <a href="https://www.linkedin.com/in/ignacio-tomasco/">LinkedIn</a>
    - 📫 [Correo](ignacio.tomasco@gmail.com)
@@ -59,6 +66,7 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
 <hr> 
  
 - 🎭 Fun fact: I'm an old junior(31)👨🏻‍🦳
-- 📍 From Durazno-Uruguay 
+- 📍 De Montevideo-Uruguay 
+- 🌱 Actualmente estoy mejorando mis habilidades con el stack MERN
 
 
