@@ -54,6 +54,7 @@ Estoy interesado en oportunidades que me permitan desarrollar mi carrera en el c
    <li><a href="https://github.com/Raggi37/tiendaMuebles" target:"_blank">tiendaMuebles</a></li>
    <li><a href="https://lovely-profiterole-8910c1.netlify.app/"> Netflix-clone(React)</a></li>
    <li><a href="https://cafeteriaconsass.netlify.app">La Cafeteria(HTML, SASS)</a></li>
+   <li><a href="https://sushimanproject.netlify.app">Sushiman(HTML, CSS, JS)</a></li>
 </ul>
 
 
